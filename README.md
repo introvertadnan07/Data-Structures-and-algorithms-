@@ -32,7 +32,7 @@ The files include various pattern problems and triangles, implemented in C++.
 3. Compile using:  
    ```bash
 
-   Day 3 – [Title Here]
+ Day 3 
 🎯 Objectives
 
 Understand the concept and implementation of the topic for Day 3.
