@@ -62,5 +62,35 @@ main.[ext] — (or whatever filename) your solution file for Day 3.
 README.md — this file.
 
 Optionally: a tests/ folder or sample_inputs.txt for practice test cases.
+
+🎯 Day 4 Objectives
+
+Learn the key concepts of the Day 4 topic—what it is, why it matters, and when to use it.
+
+Implement the data structure or algorithm from scratch in your chosen language.
+
+Include at least one sample test case, comment your complexities, and handle edge-cases.
+
+Commit clean, readable code that fits with your overall repository style.
+
+🧠 What you’ll learn today
+
+A clear definition of the topic (data-structure/algorithm).
+
+Core operations: e.g., insert, delete, search, traverse (as relevant).
+
+Use-cases showing when and why this topic is useful.
+
+Implementation details: how to code it cleanly, what pitfalls to avoid.
+
+Time and space complexity analysis for each operation.
+
+📂 Folder contents
+
+main.[ext] (or other file name): Your solution code for Day 4.
+
+README.md: This file.
+
+Optionally: tests/ or sample_input_output.txt with example usage and test cases.
    g++ Square.cpp -o Square
    ./Square
